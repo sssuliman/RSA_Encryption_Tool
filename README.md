@@ -78,6 +78,16 @@ famo7408.ipynb
 - Improve user interaction and visualization
 - Implement additional cryptographic algorithms
 
+## Screenshot
+
+### RSA Encryption Demo
+
+![RSA Encryption Demo](screenshots/rsa-encryption-demo.png)
+
+### RSA Message Exchange Example
+
+![RSA Message Exchange](screenshots/rsa-message-exchange.png)
+
 ## References
 
 - RSA Cryptosystem: https://en.wikipedia.org/wiki/RSA_(cryptosystem)
